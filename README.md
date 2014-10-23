@@ -25,5 +25,6 @@ The script is doing following
 12. There is another way to perform same using melt and dcast function
 13. Write the data in "tidyData_means.txt" which was created in step 11.
 
-Notes 
+Notes:
+
 By default "UCI HAR Dataset" folder should be placed in same folder as run_analysis.R or you can change path2data variable to specify the path.
