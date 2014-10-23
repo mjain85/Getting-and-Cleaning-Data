@@ -10,8 +10,8 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
     From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 The script is doing following 
-1.  read the 1x561 features (features) from "features.txt".
 
+1.  read the 1x561 features (features) from "features.txt".
 2.  read 5x2 activitiey label (activity_labels) from "activity_labels.txt" file.
 3.  Read Training set (X_train) ,Training label (Y_train) and associated subjects (subject_train).
 4.  Assigned a variable names.
